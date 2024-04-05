@@ -1,3 +1,3 @@
 # Github-Demo
 <br>
-Author - Divyansh Mathur
+Author - Divyansh Mathur (CSE)
